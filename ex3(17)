@@ -1,0 +1,9 @@
+#entradas
+a = int(input("Bila, escolha um número. Que o programa vai te dizer o dobro, o triplo e o quádruplo dele."))
+#processamento
+D= a*a
+T= a*a*a
+Q=a*a*a*a
+#saida
+print("A resposta é...", D,T,Q)
+print("Tomo no cú idiota")
